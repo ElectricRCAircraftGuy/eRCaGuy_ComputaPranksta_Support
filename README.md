@@ -1,4 +1,4 @@
-<!-- <head> -->
+<head>
 <style>
 img
 {
@@ -9,7 +9,7 @@ img
     width:60%;
 }
 </style> 
-<!-- </head> -->
+</head>
 
 # eRCaGuy_ComputaPranksta_Support
 Public support for my "Computa Pranksta" mouse jiggler device I sell on Amazon and elsewhere.
