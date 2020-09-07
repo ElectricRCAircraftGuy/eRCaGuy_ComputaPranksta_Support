@@ -72,6 +72,8 @@ try to center text
 
 ----
 
+See: https://www.geeksforgeeks.org/html-p-align-attribute/
+
 <p align="center">
     <img width="30%" src="https://i.stack.imgur.com/RJj4x.png"> 
 </p>
@@ -81,6 +83,10 @@ try to center text
 </p>
 
 <p align="right">
+    <img width="30%" src="https://i.stack.imgur.com/RJj4x.png"> 
+</p>
+
+<p align="justify">
     <img width="30%" src="https://i.stack.imgur.com/RJj4x.png"> 
 </p>
 
