@@ -74,21 +74,51 @@ try to center text
 
 See: https://www.geeksforgeeks.org/html-p-align-attribute/
 
-<p align="center">
-    <img width="30%" src="https://i.stack.imgur.com/RJj4x.png"> 
-</p>
+abc
 
 <p align="left">
     <img width="30%" src="https://i.stack.imgur.com/RJj4x.png"> 
 </p>
 
+def
+
 <p align="right">
     <img width="30%" src="https://i.stack.imgur.com/RJj4x.png"> 
 </p>
 
+ghi
+
+<p align="middle">
+    <img width="30%" src="https://i.stack.imgur.com/RJj4x.png"> 
+</p>
+
+jkl
+
 <p align="justify">
     <img width="30%" src="https://i.stack.imgur.com/RJj4x.png"> 
 </p>
+
+mno
+
+----
+
+abc
+
+<img width="30%" align="left" src="https://i.stack.imgur.com/RJj4x.png"> 
+
+def
+
+<img width="30%" align="right" src="https://i.stack.imgur.com/RJj4x.png"> 
+
+ghi
+
+<img width="30%" align="middle" src="https://i.stack.imgur.com/RJj4x.png"> 
+
+jkl
+
+<img width="30%" align="justify" src="https://i.stack.imgur.com/RJj4x.png"> 
+
+mno
 
 
 # License
