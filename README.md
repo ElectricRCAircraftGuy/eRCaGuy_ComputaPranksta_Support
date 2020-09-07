@@ -122,6 +122,13 @@ See: https://www.geeksforgeeks.org/html-p-align-attribute/
 
 ----
 
+<img width="33%" align="left" src="https://i.stack.imgur.com/RJj4x.png"> 
+<img width="33%" align="middle" src="https://i.stack.imgur.com/RJj4x.png"> 
+<img width="33%" align="right" src="https://i.stack.imgur.com/RJj4x.png"> 
+<img width="50%" align="justify" src="https://i.stack.imgur.com/RJj4x.png"> 
+
+----
+
 Again now but this time with markdown image insertions:
 ![](https://i.stack.imgur.com/RJj4x.png)
 
