@@ -222,7 +222,7 @@ Arduino board designs use a variety of microprocessors and controllers. The boar
 
 ----
 
-3 in a row:
+3 in a row (IT WORKS!):
 
 MAKE SURE TO GIVE THE `<p>` tag an entire 100% width or else text gets in-lined around it, botching your vertical alignment and vertical spacing/formatting you may be trying to maintain!
 
