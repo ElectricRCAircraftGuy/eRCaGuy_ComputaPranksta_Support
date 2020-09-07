@@ -1,3 +1,4 @@
+<head>
 <style>
 img
 {
@@ -8,6 +9,7 @@ img
     width:60%;
 }
 </style> 
+</head>
 
 # eRCaGuy_ComputaPranksta_Support
 Public support for my "Computa Pranksta" mouse jiggler device I sell on Amazon and elsewhere.
@@ -25,7 +27,7 @@ It is functional and for sale!
 ![](photos/pranksta2.jpg)
 
 <img src="https://i.stack.imgur.com/RJj4x.png" 
-     style="display:block;float:none;margin-left:auto;margin-right:auto;width:60%"> 
+     style="display:block;float:none;margin-left:auto;margin-right:auto;width:10%"> 
 
 # License
 
