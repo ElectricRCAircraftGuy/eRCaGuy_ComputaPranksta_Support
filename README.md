@@ -70,6 +70,20 @@ try to center text
 <img width="50%" align="right" src="https://i.stack.imgur.com/RJj4x.png"> 
 <img width="60%" align="middle" src="https://i.stack.imgur.com/RJj4x.png"> 
 
+----
+
+<p align="center">
+    <img width="30%" src="https://i.stack.imgur.com/RJj4x.png"> 
+</p>
+
+<p align="left">
+    <img width="30%" src="https://i.stack.imgur.com/RJj4x.png"> 
+</p>
+
+<p align="right">
+    <img width="30%" src="https://i.stack.imgur.com/RJj4x.png"> 
+</p>
+
 
 # License
 
