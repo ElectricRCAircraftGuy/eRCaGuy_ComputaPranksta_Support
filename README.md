@@ -36,9 +36,9 @@ It is functional and for sale!
 new answers:
 
 <img width="100%" align="left" src="https://i.stack.imgur.com/RJj4x.png"> 
-<img width="60%" alignt="left" src="https://i.stack.imgur.com/RJj4x.png"> 
-<img width="60%" alignt="right" src="https://i.stack.imgur.com/RJj4x.png"> 
-<img width="50%" alignt="right" src="https://i.stack.imgur.com/RJj4x.png"> 
+<img width="60%" align="left" src="https://i.stack.imgur.com/RJj4x.png"> 
+<img width="60%" align="right" src="https://i.stack.imgur.com/RJj4x.png"> 
+<img width="50%" align="right" src="https://i.stack.imgur.com/RJj4x.png"> 
 
 
 # License
