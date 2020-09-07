@@ -64,6 +64,13 @@ try to center text
 <img width="30%" align="right" src="https://i.stack.imgur.com/RJj4x.png"> 
 <img width="30%" align="middle" src="https://i.stack.imgur.com/RJj4x.png"> 
 
+----
+
+<img width="30%" align="left" src="https://i.stack.imgur.com/RJj4x.png"> 
+<img width="50%" align="right" src="https://i.stack.imgur.com/RJj4x.png"> 
+<img width="60%" align="middle" src="https://i.stack.imgur.com/RJj4x.png"> 
+
+
 # License
 
 Any material in this repository is bound by the open source MIT License, as specified in the [LICENSE](LICENSE) file herein, unless already bound by a more-restrictive license. The c
