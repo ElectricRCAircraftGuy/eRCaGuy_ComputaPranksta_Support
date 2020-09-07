@@ -41,6 +41,7 @@ new answers:
 <img width="50%" align="right" src="https://i.stack.imgur.com/RJj4x.png"> 
 <img height="100%" align="left" src="https://i.stack.imgur.com/RJj4x.png"> 
 <img height="50%" align="left" src="https://i.stack.imgur.com/RJj4x.png"> 
+<img width="50%" align="left" src="https://i.stack.imgur.com/RJj4x.png"> 
 
 
 # License
