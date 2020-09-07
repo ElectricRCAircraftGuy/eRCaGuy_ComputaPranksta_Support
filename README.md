@@ -255,6 +255,9 @@ MAKE SURE TO GIVE THE `<p>` tag an entire 100% width or else text gets in-lined 
 </p>
 
 
+again
+
+<img display="block" float="none" margin-left="auto" margin-right="auto" width="30%" src="https://i.stack.imgur.com/RJj4x.png"> 
 
 ----
 
