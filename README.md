@@ -9,7 +9,7 @@ For sale and functional.
 
 # Buy on Amazon!
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=wwwel-20&language=en_US&marketplace=amazon&region=US&placement=B06ZYZ2GTB&asins=B06ZYZ2GTB&linkId=6dfc47c6608f9e2b74384c2046daa0fd&show_border=true&link_opens_in_new_window=true"></iframe>
+<a href="https://www.amazon.com/Computa-Pranksta-Keyboard-Device-50-Settings/dp/B06ZYZ2GTB/ref=as_li_ss_il?ie=UTF8&linkCode=li2&tag=wwwel-20&linkId=cd03a67ebd29af3c68493611f5022ee2&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B06ZYZ2GTB&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=wwwel-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=wwwel-20&language=en_US&l=li2&o=1&a=B06ZYZ2GTB" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 # License
 
