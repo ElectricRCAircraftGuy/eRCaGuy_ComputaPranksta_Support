@@ -224,7 +224,7 @@ Arduino board designs use a variety of microprocessors and controllers. The boar
 
 3 in a row:
 
-<p align="left">
+<p align="left" width="100%">
     <img width="33%" align="left" src="https://i.stack.imgur.com/RJj4x.png"> 
     <img width="33%" align="left" src="https://i.stack.imgur.com/RJj4x.png"> 
     <img width="33%" align="left" src="https://i.stack.imgur.com/RJj4x.png"> 
