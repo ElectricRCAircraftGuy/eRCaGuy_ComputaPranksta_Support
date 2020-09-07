@@ -123,6 +123,8 @@ mno
 ----
 
 Again now but this time with markdown image insertions:
+![](https://i.stack.imgur.com/RJj4x.png)
+
 
 abc
 
