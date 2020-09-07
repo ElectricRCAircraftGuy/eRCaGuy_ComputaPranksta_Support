@@ -220,6 +220,18 @@ Arduino (/ɑːrˈdwiːnoʊ/) is an open-source hardware and software company, pr
 
 Arduino board designs use a variety of microprocessors and controllers. The boards are equipped with sets of digital and analog input/output (I/O) pins that may be interfaced to various expansion boards ('shields') or breadboards (for prototyping) and other circuits. The boards feature serial communications interfaces, including Universal Serial Bus (USB) on some models, which are also used for loading programs from personal computers. The microcontrollers can be programmed using the C and C++ programming languages, using a standard API which is also known as the "Arduino language". In addition to using traditional compiler toolchains, the Arduino project provides an integrated development environment (IDE) and a command line tool (arduino-cli) developed in Go.
 
+----
+
+3 in a row:
+
+<p>
+    <img width="33%" align="left" src="https://i.stack.imgur.com/RJj4x.png"> 
+    <img width="33%" align="left" src="https://i.stack.imgur.com/RJj4x.png"> 
+    <img width="33%" align="left" src="https://i.stack.imgur.com/RJj4x.png"> 
+</p>
+
+----
+
 
 ----
 
