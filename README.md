@@ -11,7 +11,13 @@ It is functional and for sale!
 
 # [Buy on Amazon here!](https://amzn.to/2ReBSuN)
 
-**Product Images (click to enlarge):**
+1. Main **"user manual"** online: https://www.electricrcaircraftguy.com/2017/04/computa-pranksta-user-manual.html
+1. **YouTube Videos**:
+    1. [How to Use & Configure the Computa Pranksta USB Keyboard & Mouse Prank Device](https://www.youtube.com/watch?v=LjEPAu1H8Z0)
+    1. **[MOST COMMON REQUEST!] [Reconfiguring the Computa Pranksta for use as a USB Mouse Jiggler to keep your screensaver off](https://www.youtube.com/watch?v=iKUE0a1e61g)**
+
+## Product Images 
+(click an image to enlarge it)
 
 |                                               |                                               |                                               |
 |-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|
@@ -19,26 +25,19 @@ It is functional and for sale!
 | <img width="100%" src="photos/pranksta4.jpg"> | <img width="100%" src="photos/pranksta5.jpg"> | <img width="100%" src="photos/pranksta6.jpg"> |
 
 
-**Quick Reference Sheet (click to enlarge, then use `Ctrl` + `+` and `Ctrl` + `-` to zoom in and out in your browser, and arrow keys to scroll up/down and left/right):**
+## Quick Reference Sheet 
+(click to enlarge, then use `Ctrl` + `+` and `Ctrl` + `-` to zoom in and out in your browser. To scroll up/down and left/right on the image, first click on it with your mouse, and then use your arrow keys)
 
 <p align="center" width="100%">
     <img width="75%" src="photos/pranksta7.jpg"> 
 </p>
 
 
-# Help Links & Support
-
-1. Main **"user manual"** online: https://www.electricrcaircraftguy.com/2017/04/computa-pranksta-user-manual.html
-1. **YouTube Videos**:
-    1. [How to Use & Configure the Computa Pranksta USB Keyboard & Mouse Prank Device](https://www.youtube.com/watch?v=LjEPAu1H8Z0)
-    1. [Reconfiguring the Computa Pranksta for use as a USB Mouse Jiggler to keep your screensaver off](https://www.youtube.com/watch?v=iKUE0a1e61g)
-
-
-## Support
+# Support / Email / Submit an Issue here on GitHub
 
 You can either:
 
-1. Click the "user manual" link just above, and email me at the email address shown at the top of that page, OR:
+1. Click the "user manual" link just above, and email me directly at the email address shown at the top of that page, OR:
 1. (Recommended, if you're ok with your support being public to help others with the same question): sign in with a free GitHub account and click the ["Issues" tab](https://github.com/ElectricRCAircraftGuy/eRCaGuy_ComputaPranksta_Support/issues) at the top and create a "New issue". Note that this issue will be publicly visible by anyone. This also gives users a chance to help answer each others' questions.
 
 
