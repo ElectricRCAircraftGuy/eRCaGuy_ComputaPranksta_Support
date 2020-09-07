@@ -224,11 +224,31 @@ Arduino board designs use a variety of microprocessors and controllers. The boar
 
 3 in a row:
 
-<p align="left" width="100%">
+<p align="center" width="100%">
     <img width="33%" src="https://i.stack.imgur.com/RJj4x.png"> 
     <img width="33%" src="https://i.stack.imgur.com/RJj4x.png"> 
     <img width="33%" src="https://i.stack.imgur.com/RJj4x.png"> 
 </p>
+
+<p align="center" width="100%">
+    <img width="32%" src="https://i.stack.imgur.com/RJj4x.png"> 
+    <img width="32%" src="https://i.stack.imgur.com/RJj4x.png"> 
+    <img width="32%" src="https://i.stack.imgur.com/RJj4x.png"> 
+</p>
+
+<p align="center" width="100%">
+    <img width="31%" src="https://i.stack.imgur.com/RJj4x.png"> 
+    <img width="31%" src="https://i.stack.imgur.com/RJj4x.png"> 
+    <img width="31%" src="https://i.stack.imgur.com/RJj4x.png"> 
+</p>
+
+<p align="center" width="100%">
+    <img width="30%" src="https://i.stack.imgur.com/RJj4x.png"> 
+    <img width="30%" src="https://i.stack.imgur.com/RJj4x.png"> 
+    <img width="30%" src="https://i.stack.imgur.com/RJj4x.png"> 
+</p>
+
+
 
 ----
 
