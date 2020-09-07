@@ -11,20 +11,30 @@ It is functional and for sale!
 
 # [Buy on Amazon here!](https://amzn.to/2ReBSuN)
 
+**Product Images (click to enlarge):**
+
+|                                               |                                               |                                               |
+|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|
+| <img width="100%" src="photos/pranksta1.jpg"> | <img width="100%" src="photos/pranksta2.jpg"> | <img width="100%" src="photos/pranksta3.jpg"> |
+| <img width="100%" src="photos/pranksta4.jpg"> | <img width="100%" src="photos/pranksta5.jpg"> | <img width="100%" src="photos/pranksta6.jpg"> |
+
+
+again
+
 <p align="center" width="100%">
-    <img width="32%" src="photos/pranksta1"> 
-    <img width="32%" src="photos/pranksta2"> 
-    <img width="32%" src="photos/pranksta3"> 
+    <img width="32%" src="photos/pranksta1.jpg"> 
+    <img width="32%" src="photos/pranksta2.jpg"> 
+    <img width="32%" src="photos/pranksta3.jpg"> 
 </p>
 <p align="center" width="100%">
-    <img width="32%" src="photos/pranksta4"> 
-    <img width="32%" src="photos/pranksta5"> 
-    <img width="32%" src="photos/pranksta6"> 
+    <img width="32%" src="photos/pranksta4.jpg"> 
+    <img width="32%" src="photos/pranksta5.jpg"> 
+    <img width="32%" src="photos/pranksta6.jpg"> 
 </p>
 
-Quick Reference cheet-sheet:
+**Quick Reference cheet-sheet (click to enlarge):**
 
-<img width="60%" src="photos/pranksta7"> 
+<img width="60%" src="photos/pranksta7.jpg"> 
 
 
 # Links:
