@@ -23,4 +23,6 @@ The device _hardware_ is based on the open source Digispark
 
 ----
 
+
+Disclaimer required by Amazon:  
 _We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites._
