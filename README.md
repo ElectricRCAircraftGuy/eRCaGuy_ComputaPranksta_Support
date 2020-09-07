@@ -224,6 +224,8 @@ Arduino board designs use a variety of microprocessors and controllers. The boar
 
 3 in a row:
 
+MAKE SURE TO GIVE THE `<p>` tag an entire 100% width or else text gets in-lined around it, botching your vertical alignment and vertical spacing/formatting you may be trying to maintain!
+
 33% each:
 <p align="center" width="100%">
     <img width="33%" src="https://i.stack.imgur.com/RJj4x.png"> 
