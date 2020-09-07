@@ -74,51 +74,51 @@ try to center text
 
 See: https://www.geeksforgeeks.org/html-p-align-attribute/
 
-abc
+**Left**
 
 <p align="left">
     <img width="30%" src="https://i.stack.imgur.com/RJj4x.png"> 
 </p>
 
-def
+**Middle**
 
 <p align="middle">
     <img width="30%" src="https://i.stack.imgur.com/RJj4x.png"> 
 </p>
 
-ghi
+**Right**
 
 <p align="right">
     <img width="30%" src="https://i.stack.imgur.com/RJj4x.png"> 
 </p>
 
-jkl
+**Justify**
 
 <p align="justify">
     <img width="30%" src="https://i.stack.imgur.com/RJj4x.png"> 
 </p>
 
-mno
+**Done**
 
 ----
 
-abc
+**Left**
 
 <img width="30%" align="left" src="https://i.stack.imgur.com/RJj4x.png"> 
 
-def
+**Middle**
 
 <img width="30%" align="middle" src="https://i.stack.imgur.com/RJj4x.png"> 
 
-ghi
+**Right**
 
 <img width="30%" align="right" src="https://i.stack.imgur.com/RJj4x.png"> 
 
-jkl
+**Justify**
 
 <img width="30%" align="justify" src="https://i.stack.imgur.com/RJj4x.png"> 
 
-mno
+**Done**
 
 ----
 
@@ -126,35 +126,35 @@ Again now but this time with markdown image insertions:
 ![](https://i.stack.imgur.com/RJj4x.png)
 
 
-abc
+**Left**
 
 <p align="left">
     ![](https://i.stack.imgur.com/RJj4x.png)
 </p>
 
-def
+**Middle**
 
 <p align="middle">
     ![](https://i.stack.imgur.com/RJj4x.png)
 </p>
 
-ghi
+**Right**
 
 <p align="right">
     ![](https://i.stack.imgur.com/RJj4x.png)
 </p>
 
-jkl
+**Justify**
 
 <p align="justify">
     ![](https://i.stack.imgur.com/RJj4x.png)
 </p>
 
-mno
+**Done**
 
 ----
 
-abc
+**Left**
 
 Arduino (/ɑːrˈdwiːnoʊ/) is an open-source hardware and software company, project and user community that designs and manufactures single-board microcontrollers and microcontroller kits for building digital devices. Its hardware products are licensed under a CC-BY-SA license, while software is licensed under the GNU Lesser General Public License (LGPL) or the GNU General Public License (GPL),[1] permitting the manufacture of Arduino boards and software distribution by anyone. Arduino boards are available commercially from the official website or through authorized distributors.
 
@@ -162,7 +162,7 @@ Arduino board designs use a variety of microprocessors and controllers. The boar
 
 <img width="30%" align="left" src="https://i.stack.imgur.com/RJj4x.png"> 
 
-def
+**Middle**
 
 Arduino (/ɑːrˈdwiːnoʊ/) is an open-source hardware and software company, project and user community that designs and manufactures single-board microcontrollers and microcontroller kits for building digital devices. Its hardware products are licensed under a CC-BY-SA license, while software is licensed under the GNU Lesser General Public License (LGPL) or the GNU General Public License (GPL),[1] permitting the manufacture of Arduino boards and software distribution by anyone. Arduino boards are available commercially from the official website or through authorized distributors.
 
@@ -170,7 +170,7 @@ Arduino board designs use a variety of microprocessors and controllers. The boar
 
 <img width="30%" align="middle" src="https://i.stack.imgur.com/RJj4x.png"> 
 
-ghi
+**Right**
 
 Arduino (/ɑːrˈdwiːnoʊ/) is an open-source hardware and software company, project and user community that designs and manufactures single-board microcontrollers and microcontroller kits for building digital devices. Its hardware products are licensed under a CC-BY-SA license, while software is licensed under the GNU Lesser General Public License (LGPL) or the GNU General Public License (GPL),[1] permitting the manufacture of Arduino boards and software distribution by anyone. Arduino boards are available commercially from the official website or through authorized distributors.
 
@@ -178,7 +178,7 @@ Arduino board designs use a variety of microprocessors and controllers. The boar
 
 <img width="30%" align="right" src="https://i.stack.imgur.com/RJj4x.png"> 
 
-jkl
+**Justify**
 
 Arduino (/ɑːrˈdwiːnoʊ/) is an open-source hardware and software company, project and user community that designs and manufactures single-board microcontrollers and microcontroller kits for building digital devices. Its hardware products are licensed under a CC-BY-SA license, while software is licensed under the GNU Lesser General Public License (LGPL) or the GNU General Public License (GPL),[1] permitting the manufacture of Arduino boards and software distribution by anyone. Arduino boards are available commercially from the official website or through authorized distributors.
 
@@ -186,7 +186,7 @@ Arduino board designs use a variety of microprocessors and controllers. The boar
 
 <img width="30%" align="justify" src="https://i.stack.imgur.com/RJj4x.png"> 
 
-mno
+**Done**
 
 Arduino (/ɑːrˈdwiːnoʊ/) is an open-source hardware and software company, project and user community that designs and manufactures single-board microcontrollers and microcontroller kits for building digital devices. Its hardware products are licensed under a CC-BY-SA license, while software is licensed under the GNU Lesser General Public License (LGPL) or the GNU General Public License (GPL),[1] permitting the manufacture of Arduino boards and software distribution by anyone. Arduino boards are available commercially from the official website or through authorized distributors.
 
