@@ -31,6 +31,9 @@ It is functional and for sale!
 <img src="https://i.stack.imgur.com/RJj4x.png" 
      style="display:block;float:none;margin-left:auto;margin-right:auto;width:10%"> 
 
+<img src="https://i.stack.imgur.com/RJj4x.png" width="10%"> 
+
+
 # License
 
 Any material in this repository is bound by the open source MIT License, as specified in the [LICENSE](LICENSE) file herein, unless already bound by a more-restrictive license. The c
