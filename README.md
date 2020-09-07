@@ -5,15 +5,17 @@ This device is a mouse jiggler. It keeps your computer awake. It can also be use
 
 # Status:
 
-For sale and functional. 
+It is functional and for sale! 
 
-# Buy on Amazon!
+# [Buy on Amazon!](https://amzn.to/2ReBSuN)
 
-<a href="https://www.amazon.com/Computa-Pranksta-Keyboard-Device-50-Settings/dp/B06ZYZ2GTB/ref=as_li_ss_il?ie=UTF8&linkCode=li2&tag=wwwel-20&linkId=cd03a67ebd29af3c68493611f5022ee2&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B06ZYZ2GTB&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=wwwel-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=wwwel-20&language=en_US&l=li2&o=1&a=B06ZYZ2GTB" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+![](photos/pranksta1.jpg)
+
+![](photos/pranksta2.jpg)
 
 # License
 
-Any material in this repository will be bound by the open source MIT License, as specified in the [LICENSE](LICENSE) file herein, unless already bound by a more-restrictive license. The c
+Any material in this repository is bound by the open source MIT License, as specified in the [LICENSE](LICENSE) file herein, unless already bound by a more-restrictive license. The c
 
 The device _hardware_ is based on the open source Digispark
 
