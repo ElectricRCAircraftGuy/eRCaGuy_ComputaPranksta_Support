@@ -43,6 +43,8 @@ new answers:
 <img height="50%" align="left" src="https://i.stack.imgur.com/RJj4x.png"> 
 <img width="50%" align="left" src="https://i.stack.imgur.com/RJj4x.png"> 
 
+try to center text
+
 -> This is centered Text <-
 
 ![](https://i.stack.imgur.com/RJj4x.png)
