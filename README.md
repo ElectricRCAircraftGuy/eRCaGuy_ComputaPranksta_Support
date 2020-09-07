@@ -52,6 +52,9 @@ try to center text
 
 -> ![](https://i.stack.imgur.com/RJj4x.png) <-
 
+----------
+
+<img width="30%" float="left" src="https://i.stack.imgur.com/RJj4x.png"> 
 
 
 # License
