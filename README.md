@@ -58,6 +58,11 @@ try to center text
 <img width="30%" float="right" src="https://i.stack.imgur.com/RJj4x.png"> 
 <img width="30%" float="middle" src="https://i.stack.imgur.com/RJj4x.png"> 
 
+----
+
+<img width="30%" align="left" src="https://i.stack.imgur.com/RJj4x.png"> 
+<img width="30%" align="right" src="https://i.stack.imgur.com/RJj4x.png"> 
+<img width="30%" align="middle" src="https://i.stack.imgur.com/RJj4x.png"> 
 
 # License
 
