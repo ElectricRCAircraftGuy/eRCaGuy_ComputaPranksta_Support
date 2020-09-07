@@ -4,7 +4,7 @@ Public support for my "Computa Pranksta" mouse jiggler device I sell on Amazon a
 This device is a mouse jiggler. It keeps your computer awake. It can also be used to have some fun with your friends (please don't take it too far--it's meant to be used in good, friendly gest--not for any type of malicious purposes).
 
 
-# Status:
+# Status
 
 It is functional and for sale! 
 
@@ -32,12 +32,12 @@ again
     <img width="32%" src="photos/pranksta6.jpg"> 
 </p>
 
-**Quick Reference cheet-sheet (click to enlarge):**
+**Quick Reference Sheet (click to enlarge, then use `Ctrl` + `+` and `Ctrl` + `-` to zoom in and out in your browser, and arrow keys to scroll up/down and left/right):**
 
 <img width="60%" src="photos/pranksta7.jpg"> 
 
 
-# Links:
+# Links
 
 1. Main "user manual" online: https://www.electricrcaircraftguy.com/2017/04/computa-pranksta-user-manual.html
 1. YouTube Videos:
@@ -53,7 +53,17 @@ again
 
 # License
 
-Any material in this repository is bound by the open source MIT License, as specified in the [LICENSE](LICENSE) file herein, unless already bound by a more-restrictive license. The c
+The license for all content in this repo not otherwise already bound by another license is:
+
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+
+For terms, see:
+
+1. License Deed (plain English terms): https://creativecommons.org/licenses/by-nc-sa/4.0/
+2. Legal Code: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+
+
+# Acknowledgements 
 
 The device _hardware_ is based on the open source Digispark
 
