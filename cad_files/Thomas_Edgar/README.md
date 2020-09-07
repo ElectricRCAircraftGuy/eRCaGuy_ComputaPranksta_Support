@@ -7,7 +7,15 @@ Thomas Edgar
 Basin Design Service, LLC  
 http://www.basindesign.com/
 
-No need to glue it at all; works great as-is!
+Thank you!
+
+Instructions:
+
+Print it. Shove the Computa Pranksta into it. It's just a friction fit. No need to glue it at all; works great as-is! Done.
+
+STL: [PrankstaCase.stl](PrankstaCase.stl)
+
+Images:
 
 <p align="left" width="100%">
     <img width="30%" src="cad_drawing1.png"> 

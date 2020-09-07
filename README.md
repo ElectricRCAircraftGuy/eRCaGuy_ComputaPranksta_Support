@@ -61,10 +61,9 @@ For terms, see:
 
 # CAD Files for a 3D-printed case
 
-See the [cad_files](cad_files) folder for downloads.
+See the cad_files folder for downloads.
 
-1. [cad_files/Thomas_Edgar](cad_files/Thomas_Edgar)/Pranksta Case.stl
-    1. [cad_files/Thomas_Edgar/README.md](cad_files/Thomas_Edgar/README.md)
+1. [cad_files/Thomas_Edgar](cad_files/Thomas_Edgar)
 
 <p align="center" width="100%">
     <img width="30%" src="cad_files/Thomas_Edgar/cad_drawing1.png"> 
@@ -76,12 +75,9 @@ See the [cad_files](cad_files) folder for downloads.
 
 As is the case with most projects anyone does, I am standing on the shoulds of giants. Here are some giants who have come before me to make this technology possible. 
 
-
-
-The device _hardware_ is based on the open source Digispark
-
 (IN WORK)
 
+The device _hardware_ is based on the open source Digispark...
 
 
 ----
