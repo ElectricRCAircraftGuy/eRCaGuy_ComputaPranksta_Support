@@ -140,6 +140,16 @@ left left left left
 
 ----
 
+3 in a row:
+
+<p>
+    <img width="33%" align="left" src="https://i.stack.imgur.com/RJj4x.png"> 
+    <img width="33%" align="left" src="https://i.stack.imgur.com/RJj4x.png"> 
+    <img width="33%" align="left" src="https://i.stack.imgur.com/RJj4x.png"> 
+</p>
+
+----
+
 Again now but this time with markdown image insertions:
 ![](https://i.stack.imgur.com/RJj4x.png)
 
