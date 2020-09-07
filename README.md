@@ -122,10 +122,21 @@ See: https://www.geeksforgeeks.org/html-p-align-attribute/
 
 ----
 
-<img width="33%" align="left" src="https://i.stack.imgur.com/RJj4x.png"> 
-<img width="33%" align="middle" src="https://i.stack.imgur.com/RJj4x.png"> 
-<img width="33%" align="right" src="https://i.stack.imgur.com/RJj4x.png"> 
+left, middle, right justify
+
+<img width="30%" align="left" src="https://i.stack.imgur.com/RJj4x.png"> 
+<img width="30%" align="middle" src="https://i.stack.imgur.com/RJj4x.png"> 
+<img width="30%" align="right" src="https://i.stack.imgur.com/RJj4x.png"> 
 <img width="50%" align="justify" src="https://i.stack.imgur.com/RJj4x.png"> 
+
+----
+
+left left left left
+
+<img width="30%" align="left" src="https://i.stack.imgur.com/RJj4x.png"> 
+<img width="30%" align="left" src="https://i.stack.imgur.com/RJj4x.png"> 
+<img width="30%" align="left" src="https://i.stack.imgur.com/RJj4x.png"> 
+<img width="50%" align="left" src="https://i.stack.imgur.com/RJj4x.png"> 
 
 ----
 
