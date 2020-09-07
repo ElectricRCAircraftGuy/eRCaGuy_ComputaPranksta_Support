@@ -43,6 +43,13 @@ new answers:
 <img height="50%" align="left" src="https://i.stack.imgur.com/RJj4x.png"> 
 <img width="50%" align="left" src="https://i.stack.imgur.com/RJj4x.png"> 
 
+-> This is centered Text <-
+
+![](https://i.stack.imgur.com/RJj4x.png)
+
+-> ![](https://i.stack.imgur.com/RJj4x.png) <-
+
+
 
 # License
 
