@@ -24,6 +24,9 @@ It is functional and for sale!
 
 ![](photos/pranksta2.jpg)
 
+<img src="https://i.stack.imgur.com/RJj4x.png" 
+     style="display:block;float:none;margin-left:auto;margin-right:auto;width:60%"> 
+
 # License
 
 Any material in this repository is bound by the open source MIT License, as specified in the [LICENSE](LICENSE) file herein, unless already bound by a more-restrictive license. The c
