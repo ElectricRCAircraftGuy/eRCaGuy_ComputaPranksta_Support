@@ -81,12 +81,13 @@ As is the case with most projects anyone does, I am standing on the shoulds of g
 The Computa Pranksta relies on the following technologies, in rough order from what I consider "highest level" to lowest level.
 
 1. [Arduino](https://www.arduino.cc/): the Pranksta uses the Arduino ecosystem, including the IDE. Arduino is _amazing._ I'm a professional software developer today, because of Arduino. Thank you Massimo Banzi, Arduino, and others!
-1. [Digispark](http://digistump.com/products/1) - the device _hardware_ is based on the open source Digispark, by DigiStump. DigiStump is awesome. So glad they exist. They were kickstarted, you know!
+1. [Digispark](http://digistump.com/products/1) - the device _hardware_ is based on the open source Digispark, by DigiStump. DigiStump is awesome. So glad they exist. [They were kickstarted](https://www.kickstarter.com/projects/digistump/digispark-the-tiny-arduino-enabled-usb-dev-board), you know, in late 2012!
     1. [Here's the hardware schematic from Digispark](DigisparkSchematic.pdf)
     1. Online source:
         1. [DigiSpark pg](http://digistump.com/products/1) --> Resources --> "Schematics"
         1. [direct link](https://s3.amazonaws.com/digistump-resources/files/97a1bb28_DigisparkSchematic.pdf)
     1. Hardware license: [CC-BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
+    1. Note: it appears to me that diode D3 shown in the DigiSpark schematic is backwards, but I haven't confirmed with them to be sure.
 1. Adafruit USB Keyboard and Mouse Library: ["TrinketHidCombo", with my changes](https://github.com/ElectricRCAircraftGuy/Adafruit-Trinket-USB/tree/master/TrinketHidCombo)
     1. License: LGPL 3 or later
 1. [Micronucleus](https://github.com/micronucleus/micronucleus): this is the bootloader which allows me to upload my custom firmware which makes the Computa Pranksta a Computa Pranksta
