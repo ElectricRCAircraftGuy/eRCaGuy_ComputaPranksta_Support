@@ -74,13 +74,30 @@ See the cad_files folder for downloads.
 </p>
 
 
-# Base Technologies 
+# Credits and Base Technologies 
 
 As is the case with most projects anyone does, I am standing on the shoulds of giants. Here are some giants who have come before me to make this technology possible. 
 
-(IN WORK)
+The Computa Pranksta relies on the following technologies, in rough order from what I consider "highest level" to lowest level.
 
-The device _hardware_ is based on the open source Digispark...
+1. [Arduino](https://www.arduino.cc/): the Pranksta uses the Arduino ecosystem, including the IDE. Arduino is _amazing._ I'm a professional software developer today, because of Arduino. Thank you Massimo Banzi, Arduino, and others!
+1. [Digispark](http://digistump.com/products/1) - the device _hardware_ is based on the open source Digispark, by DigiStump. DigiStump is awesome. So glad they exist. They were kickstarted, you know!
+    1. [Here's the hardware schematic from Digispark](DigisparkSchematic.pdf)
+    1. Online source:
+        1. [DigiSpark pg](http://digistump.com/products/1) --> Resources --> "Schematics"
+        1. [direct link](https://s3.amazonaws.com/digistump-resources/files/97a1bb28_DigisparkSchematic.pdf)
+    1. Hardware license: [CC-BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
+1. Adafruit USB Keyboard and Mouse Library: ["TrinketHidCombo", with my changes](https://github.com/ElectricRCAircraftGuy/Adafruit-Trinket-USB/tree/master/TrinketHidCombo)
+    1. License: LGPL 3 or later
+1. [Micronucleus](https://github.com/micronucleus/micronucleus): this is the bootloader which allows me to upload my custom firmware which makes the Computa Pranksta a Computa Pranksta
+    1. License for the bootloader only, not what has been uploaded by it: GPLv2
+1. [V-USB](https://www.obdev.at/products/vusb/index.html): the software implementation of low-speed USB which allows the USB-incapable microcontroller which runs this device to bit-bang out the USB protocol. This is amazing. Micronucleus requires this. This is what makes Micronucleus able to communicate over USB, and it's what powers the underlying USB protocol to allow the Pranksta to become a USB HID keyboard and mouse combo.
+1. [AVR Libc](https://www.nongnu.org/avr-libc/): the C library implementation for the microcontroller in use; a key component to make it programmable.
+1. [gcc](https://gcc.gnu.org/): the compiler which turns C and C++ code into machine code which can be run by the computer processor inside the Computa Pranksta. This is a beast. Perhaps *100 man years* of work have gone into its creation.
+
+Also:
+
+1. [Linux Ubuntu](https://ubuntu.com/): the free and open source, _and_ no cost (`free != no_cost`!) operating system I now use for all of my development and programming of the devices before I mail them out to Amazon for fulfillment. I used to use Windows for all development, but have slowly gotten rid of Windows. Today, all the computers in my house run Linux Ubuntu, including the ones used by my 3 and 7 year old kids, and my wife's computer too. My wife flashes all firmware from a Linux computer using micronucleus at the command-line. Thank you wife, and Linux.
 
 
 ----
