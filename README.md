@@ -8,8 +8,12 @@ This device is a mouse jiggler. It keeps your computer awake. It can also be use
 
 It is functional and for sale! 
 
-
 # [Buy on Amazon here!](https://amzn.to/2ReBSuN)
+<a href="https://amzn.to/2ReBSuN" title="Click to view on Amazon">
+    <p align="left" width="100%">
+        <img width="65%" src="photos/Amazon_screenshot1.png"> 
+    </p>
+</a>
 
 1. Main **"user manual"** online: https://www.electricrcaircraftguy.com/2017/04/computa-pranksta-user-manual.html
 1. **YouTube Videos**:
@@ -70,7 +74,7 @@ See the cad_files folder for downloads.
 </p>
 
 
-# Acknowledgements 
+# Base Technologies 
 
 As is the case with most projects anyone does, I am standing on the shoulds of giants. Here are some giants who have come before me to make this technology possible. 
 
@@ -83,3 +87,5 @@ The device _hardware_ is based on the open source Digispark...
 
 Disclaimer required by Amazon:  
 _We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites._
+
+
