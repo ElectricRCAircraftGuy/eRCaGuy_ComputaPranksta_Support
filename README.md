@@ -102,7 +102,7 @@ The Computa Pranksta relies on the following technologies, in rough order from w
 
 Also:
 
-1. [Linux Ubuntu](https://ubuntu.com/): the free and open source, _and_ no cost (`free != no_cost`!) operating system I now use for all of my development and programming of the devices before I mail them out to Amazon for fulfillment. I used to use Windows for all development, but have slowly gotten rid of Windows. Today, all the computers in my house run Linux Ubuntu, including the ones used by my 3 and 7 year old kids, and my wife's computer too. My wife flashes all firmware from a Linux computer using micronucleus at the command-line. Thank you wife, and Linux.
+1. [Linux Ubuntu](https://ubuntu.com/): the free and open source, _and_ no cost (`free does NOT equal no-cost`!) operating system I now use for all of my development and programming of the devices before I mail them out to Amazon for fulfillment. I used to use Windows for all development, but have slowly gotten rid of Windows. Today, all the computers in my house run Linux Ubuntu, including the ones used by my 3 and 7 year old kids, and my wife's computer too. My wife flashes all firmware from a Linux computer using micronucleus at the command-line. Thank you wife, and Linux.
 
 
 ----
