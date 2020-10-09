@@ -20,6 +20,9 @@ It is functional and for sale!
     1. [How to Use & Configure the Computa Pranksta USB Keyboard & Mouse Prank Device](https://www.youtube.com/watch?v=LjEPAu1H8Z0)
     1. **[MOST COMMON REQUEST!] [Reconfiguring the Computa Pranksta for use as a USB Mouse Jiggler to keep your screensaver off](https://www.youtube.com/watch?v=iKUE0a1e61g)**
 1. Main **"user manual"** online: https://www.electricrcaircraftguy.com/2017/04/computa-pranksta-user-manual.html
+1. **[FAQ](https://github.com/ElectricRCAircraftGuy/eRCaGuy_ComputaPranksta_Support/issues?q=is%3Aissue+label%3AFAQ+)**
+1. **Support Requests or questions:** https://github.com/ElectricRCAircraftGuy/eRCaGuy_ComputaPranksta_Support/issues --> click the "New issue" button on the right. You may need to create a free GitHub account.
+    1. Note: these support requests are publicly visible. If you need it to be private for some reason, email me using the email at the top of my "user manual" page above.
 
 # Product Images 
 (click an image to enlarge it)
