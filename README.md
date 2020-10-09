@@ -15,12 +15,13 @@ It is functional and for sale!
     </p>
 </a>
 
-1. Main **"user manual"** online: https://www.electricrcaircraftguy.com/2017/04/computa-pranksta-user-manual.html
-1. **YouTube Videos**:
+# Main Links:
+1. **YouTube Getting Started Videos**:
     1. [How to Use & Configure the Computa Pranksta USB Keyboard & Mouse Prank Device](https://www.youtube.com/watch?v=LjEPAu1H8Z0)
     1. **[MOST COMMON REQUEST!] [Reconfiguring the Computa Pranksta for use as a USB Mouse Jiggler to keep your screensaver off](https://www.youtube.com/watch?v=iKUE0a1e61g)**
+1. Main **"user manual"** online: https://www.electricrcaircraftguy.com/2017/04/computa-pranksta-user-manual.html
 
-## Product Images 
+# Product Images 
 (click an image to enlarge it)
 
 |                                               |                                               |                                               |
@@ -29,7 +30,7 @@ It is functional and for sale!
 | <img width="100%" src="photos/pranksta4.jpg"> | <img width="100%" src="photos/pranksta5.jpg"> | <img width="100%" src="photos/pranksta6.jpg"> |
 
 
-## Quick Reference Sheet 
+# Quick Reference Sheet 
 (click to enlarge, then use `Ctrl` + `+` and `Ctrl` + `-` to zoom in and out in your browser. To scroll up/down and left/right on the image, first click on it with your mouse, and then use your arrow keys)
 
 <p align="center" width="100%">
