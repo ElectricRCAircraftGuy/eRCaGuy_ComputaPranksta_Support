@@ -4,10 +4,34 @@ Public support for my "Computa Pranksta" mouse jiggler device I [sell on Amazon]
 This device is a mouse jiggler. It keeps your computer awake. It can also be used to have some fun with your friends (please don't take it too far--it's meant to be used in good, friendly gest--not for any type of malicious purposes).
 
 
+# Table of Contents
+<!-- MarkdownTOC -->
+
+1. [Status](#status)
+1. [Buy on Amazon here!](#buy-on-amazon-here)
+1. [Main Links:](#main-links)
+1. [Product Images](#product-images)
+1. [How to program/reconfigure it](#how-to-programreconfigure-it)
+    1. [1. In as few words as possible](#1-in-as-few-words-as-possible)
+    1. [2. Quick Reference Sheet](#2-quick-reference-sheet)
+1. [Support](#support)
+    1. [Email / Submit an Issue here on GitHub](#email--submit-an-issue-here-on-github)
+    1. [Wiki](#wiki)
+    1. [](#FAQfaq)
+1. [License](#license)
+1. [CAD Files for a 3D-printed case](#cad-files-for-a-3d-printed-case)
+1. [Credits and Base Technologies](#credits-and-base-technologies)
+
+<!-- /MarkdownTOC -->
+
+
+<a id="status"></a>
 # Status
 
 It is functional and for sale! 
 
+
+<a id="buy-on-amazon-here"></a>
 # [Buy on Amazon here!](https://amzn.to/2ReBSuN)
 <a href="https://amzn.to/2ReBSuN" title="Click to view on Amazon">
     <p align="left" width="100%">
@@ -15,6 +39,8 @@ It is functional and for sale!
     </p>
 </a>
 
+
+<a id="main-links"></a>
 # Main Links:
 1. **YouTube Getting Started Videos**:
     1. [How to Use & Configure the Computa Pranksta USB Keyboard & Mouse Prank Device](https://www.youtube.com/watch?v=LjEPAu1H8Z0)
@@ -24,6 +50,8 @@ It is functional and for sale!
 1. **Support Requests or questions:** https://github.com/ElectricRCAircraftGuy/eRCaGuy_ComputaPranksta_Support/issues --> click the "New issue" button on the right. You may need to create a free GitHub account.
     1. Note: these support requests are publicly visible. If you need it to be private for some reason, email me using the email at the top of my "user manual" page above.
 
+
+<a id="product-images"></a>
 # Product Images 
 (click an image to enlarge it)
 
@@ -33,16 +61,36 @@ It is functional and for sale!
 | <img width="100%" src="photos/pranksta4.jpg"> | <img width="100%" src="photos/pranksta5.jpg"> | <img width="100%" src="photos/pranksta6.jpg"> |
 
 
-# Quick Reference Sheet 
+<a id="how-to-programreconfigure-it"></a>
+# How to program/reconfigure it
+
+<a id="1-in-as-few-words-as-possible"></a>
+## 1. In as few words as possible
+
+1. Plug it into a Windows computer, and give it a minute to start working. It should begin to drag your mouse cursor to the lower left corner of the screen, and slowly type random characters periodically. 
+1. Once you see it working, open up a text editor (Notepad is recommended) and press `Scroll Lock` 5 times to enter programming mode. Refer to the bottom-right of the "Quick Reference Sheet" just below. It will type out some text into Notepad to indicate it is entering programming mode. 
+1. Now, in programming mode, you can cycle through the various modes using a series of `Scroll Lock` and `Caps Lock` key presses. Refer to the bottom-right of the "Quick Reference Sheet" just below for details. 
+1. When done choosing the modes you like, press `Scroll Lock` 5 times again to save and exit. Your new modes will now be in effect. 
+    1. _So long as you pressed `Scroll Lock` 5 times and saw it type out the text indicating it was saving and exiting programming mode_, you can now unplug the device and plug it back in, even moving it to a different computer if you like, and its settings will still be saved, since they are saved _internally on-board the device itself_, NOT on your computer. (For details for fellow nerds, [see here](https://github.com/ElectricRCAircraftGuy/eRCaGuy_ComputaPranksta_Support/issues/1).)
+1. If you have further questions you can reach out to me via my business email on the product label or found under the ["Contact Me" tab at the top of my website here](https://www.electricrcaircraftguy.com/2017/04/computa-pranksta-user-manual.html), where the user manual is stored.
+
+<sub>Thanks to Ebay buyer [love_harleys](https://www.ebay.com/usr/love_harleys) who helped draft this brief programming description.</sub>
+
+<a id="2-quick-reference-sheet"></a>
+## 2. Quick Reference Sheet 
 (click to enlarge, then use `Ctrl` + `+` and `Ctrl` + `-` to zoom in and out in your browser. To scroll up/down and left/right on the image, first click on it with your mouse, and then use your arrow keys)
 
 <p align="center" width="100%">
-    <img width="75%" src="photos/pranksta7.jpg"> 
+    <a href="photos/pranksta7.jpg">
+        <img width="75%" src="photos/pranksta7.jpg"> 
+    </a>
 </p>
 
 
+<a id="support"></a>
 # Support
 
+<a id="email--submit-an-issue-here-on-github"></a>
 ## Email / Submit an Issue here on GitHub
 
 You can either:
@@ -50,13 +98,16 @@ You can either:
 1. (**Recommended**, if you're ok with your support being public to help others with the same question): sign in with a free GitHub account and click the ["Issues" tab](https://github.com/ElectricRCAircraftGuy/eRCaGuy_ComputaPranksta_Support/issues) at the top and create a "New issue". Note that this issue will be publicly visible by anyone. This also gives users a chance to help answer each others' questions.
 1. Or, click the "user manual" link just above, and email me privately at the email address shown at the top of that page.
 
+<a id="wiki"></a>
 ## Wiki
 
 There is a [public wiki for this project here](https://github.com/ElectricRCAircraftGuy/eRCaGuy_ComputaPranksta_Support/wiki), which is _editable by anybody._ If you'd like to contribute to the wiki or edit it, just sign in with a free GitHub account and edit the wiki directly.
 
+<a id="FAQfaq"></a>
 ## [FAQ][faq]
 
 
+<a id="license"></a>
 # License
 
 The license for all content in this repo not otherwise already bound by another license is:
@@ -69,6 +120,7 @@ For terms, see:
 2. Legal Code: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
 
 
+<a id="cad-files-for-a-3d-printed-case"></a>
 # CAD Files for a 3D-printed case
 
 See the cad_files folder for downloads.
@@ -81,6 +133,7 @@ See the cad_files folder for downloads.
 </p>
 
 
+<a id="credits-and-base-technologies"></a>
 # Credits and Base Technologies 
 
 As is the case with most projects anyone does, I am standing on the shoulds of giants. Here are some giants who have come before me to make this technology possible. 
@@ -117,4 +170,4 @@ _We are a participant in the Amazon Services LLC Associates Program, an affiliat
 <!-- Named links -->
 <!-- Note: I learned how to do this by looking at the bottom of the Markdown Viewer readme as an example here: https://github.com/simov/markdown-viewer/blob/master/README.md -->
 
-[faq]: https://github.com/ElectricRCAircraftGuy/eRCaGuy_ComputaPranksta_Support/issues?q=is%3Aissue+label%3AFAQ+
+  [faq]: https://github.com/ElectricRCAircraftGuy/eRCaGuy_ComputaPranksta_Support/issues?q=is%3Aissue+label%3AFAQ+
