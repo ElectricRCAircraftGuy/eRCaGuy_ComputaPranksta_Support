@@ -106,7 +106,7 @@ There is a [public wiki for this project here](https://github.com/ElectricRCAirc
 
 <a id="faq"></a>
 ## FAQ
-See a list of [Frequently Asked Questions here](#faq).
+See a list of [Frequently Asked Questions here][faq].
 
 
 <a id="license"></a>
