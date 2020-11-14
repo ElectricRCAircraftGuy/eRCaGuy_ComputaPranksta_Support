@@ -75,7 +75,7 @@ It is functional and for sale!
 1. If you have further questions you can reach out to me via my business email on the product label or found under the ["Contact Me" tab at the top of my website here](https://www.electricrcaircraftguy.com/2017/04/computa-pranksta-user-manual.html), where the user manual is stored.
 1. For a detailed video demonstration of this process, see the YouTube videos in the ["Main Links"](#main-links) section just above.
 
-<sub>Thanks to Ebay buyer [love_harleys](https://www.ebay.com/usr/love_harleys) who helped draft this brief programming description.</sub>
+<sub>Thanks to [Ebay](https://www.ebay.com/itm/eRCaGuy-Programmable-Computa-Pranksta-USB-Device-Mouse-Jiggler-50-User-Settings/232694181416) buyer [love_harleys](https://www.ebay.com/usr/love_harleys) who helped draft this brief programming description.</sub>
 
 <a id="2-quick-reference-sheet"></a>
 ## 2. Quick Reference Sheet 
