@@ -13,7 +13,8 @@ This device is a mouse jiggler. It keeps your computer awake. It can also be use
 1. [Product Images](#product-images)
 1. [How to program/reconfigure it](#how-to-programreconfigure-it)
     1. [1. In as few words as possible](#1-in-as-few-words-as-possible)
-    1. [2. Quick Reference Sheet](#2-quick-reference-sheet)
+    1. [2. Brief programming description](#2-brief-programming-description)
+    1. [3. Quick Reference Sheet](#3-quick-reference-sheet)
 1. [Support](#support)
     1. [Email / Submit an Issue here on GitHub](#email--submit-an-issue-here-on-github)
     1. [Wiki](#wiki)
@@ -67,6 +68,15 @@ It is functional and for sale!
 <a id="1-in-as-few-words-as-possible"></a>
 ## 1. In as few words as possible
 
+1. Plug it into a Windows computer and open a text editor (Notepad).
+1. Press `Scroll Lock` 5 times to enter programming mode.
+1. Reconfigure it with `Scroll Lock` and `Caps Lock`.
+1. Press `Scroll Lock` 5 times to save and exit programming mode.
+1. Use it in any computer.
+
+<a id="2-brief-programming-description"></a>
+## 2. Brief programming description
+
 1. Plug it into a Windows computer, and give it a minute to start working. It should begin to drag your mouse cursor to the lower left corner of the screen, and slowly type random characters periodically. 
 1. Once you see it working, open up a text editor (Notepad is recommended) and press `Scroll Lock` 5 times to enter programming mode. Refer to the bottom-right of the **"Quick Reference Sheet"** just below. It will type out some text into Notepad to indicate it is entering programming mode. 
 1. Now, in programming mode, you can cycle through the various modes using a series of `Scroll Lock` and `Caps Lock` key presses. Refer to the bottom-right of the **"Quick Reference Sheet"** just below for details. 
@@ -77,8 +87,8 @@ It is functional and for sale!
 
 <sub>Thanks to [Ebay](https://www.ebay.com/itm/eRCaGuy-Programmable-Computa-Pranksta-USB-Device-Mouse-Jiggler-50-User-Settings/232694181416) buyer [love_harleys](https://www.ebay.com/usr/love_harleys) who helped draft this brief programming description.</sub>
 
-<a id="2-quick-reference-sheet"></a>
-## 2. Quick Reference Sheet 
+<a id="3-quick-reference-sheet"></a>
+## 3. Quick Reference Sheet 
 (click to enlarge, then use `Ctrl` + `+` and `Ctrl` + `-` to zoom in and out in your browser. To scroll up/down and left/right on the image, first click on it with your mouse, and then use your arrow keys)
 
 <p align="center" width="100%">
