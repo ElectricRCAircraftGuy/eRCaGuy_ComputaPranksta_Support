@@ -66,6 +66,8 @@ It is functional and for sale!
 <a id="how-to-programreconfigure-it"></a>
 # How to program/reconfigure it
 
+For a detailed video demonstration of this process, see the YouTube videos in the ["Main Links"](#main-links) section just above.
+
 <a id="1-in-as-few-words-as-possible"></a>
 ## 1. In as few words as possible
 
@@ -84,7 +86,6 @@ It is functional and for sale!
 1. When done choosing the modes you like, press `Scroll Lock` 5 times again to save and exit. Your new modes will now be in effect. 
     1. _So long as you pressed `Scroll Lock` 5 times and saw it type out the text indicating it was saving and exiting programming mode_, you can now unplug the device and plug it back in, even moving it to a different computer if you like, and its settings will still be saved, since they are saved _internally on-board the device itself_, NOT on your computer. (For details for fellow nerds, [see here](https://github.com/ElectricRCAircraftGuy/eRCaGuy_ComputaPranksta_Support/issues/1).)
 1. If you have further questions you can reach out to me via my business email on the product label or found under the ["Contact Me" tab at the top of my website here](https://www.electricrcaircraftguy.com/2017/04/computa-pranksta-user-manual.html), where the user manual is stored.
-1. For a detailed video demonstration of this process, see the YouTube videos in the ["Main Links"](#main-links) section just above.
 
 <sub>Thanks to [Ebay](https://www.ebay.com/itm/eRCaGuy-Programmable-Computa-Pranksta-USB-Device-Mouse-Jiggler-50-User-Settings/232694181416) buyer [love_harleys](https://www.ebay.com/usr/love_harleys) who helped draft this brief programming description.</sub>
 
