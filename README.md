@@ -43,6 +43,7 @@ It is functional and for sale!
 
 <a id="main-links"></a>
 # Main Links:
+1. [How to program/reconfigure it](#how-to-programreconfigure-it)
 1. **YouTube Getting Started Videos**:
     1. [How to Use & Configure the Computa Pranksta USB Keyboard & Mouse Prank Device](https://www.youtube.com/watch?v=LjEPAu1H8Z0)
     1. **[MOST COMMON REQUEST!] [Reconfiguring the Computa Pranksta for use as a USB Mouse Jiggler to keep your screensaver off](https://www.youtube.com/watch?v=iKUE0a1e61g)**
