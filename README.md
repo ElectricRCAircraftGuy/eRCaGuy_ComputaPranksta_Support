@@ -3,10 +3,15 @@ Public support for my "Computa Pranksta" mouse jiggler device I [sell on Amazon]
 
 This device is a mouse jiggler. It keeps your computer awake. It can also be used to have some fun with your friends (please don't take it too far--it's meant to be used in good, friendly gest--not for any type of malicious purposes).
 
+GETTING STARTED:  
+[>> Main Links <<](#main-links)
+
 
 # Table of Contents
 <!-- MarkdownTOC -->
 
+1. [Thank You!](#thank-you)
+1. [Email](#email)
 1. [Status](#status)
 1. [Buy on Amazon here!](#buy-on-amazon-here)
 1. [Main Links:](#main-links)
@@ -24,6 +29,34 @@ This device is a mouse jiggler. It keeps your computer awake. It can also be use
 1. [Credits and Base Technologies](#credits-and-base-technologies)
 
 <!-- /MarkdownTOC -->
+
+
+<a id="thank-you"></a>
+# Thank You!
+
+Thank you for ordering the Computa Pranksta mouse jiggler device. It can be both fun and useful, and I hope you use it wisely and honestly and better your skills throughout your life. 
+
+I made this while learning to program. I thought it was so amazing that a tiny little microcontroller (microprocessor) could do all this and more, and I wanted to share it with others to help fund my personal projects to do even cooler stuff, so that’s what I’m doing here. I studied programming using https://www.arduino.cc, blogs ([here is mine](https://www.electricrcaircraftguy.com)), https://stackoverflow.com (here is [my profile](https://stackoverflow.com/users/4561887/gabriel-staples)), https://www.adafruit.com, https://www.sparkfun.com, https://www.instructables.com (here are [my instructables](https://www.instructables.com/member/ElectricRCAircraftGuy/instructables)), [YouTube](https://www.youtube.com) (here is [my channel](https://www.youtube.com/ElectricRCAircraftGuy)), and other resources online, and I wrote this code in my free time over the course of 2 years while I was in the US Air Force. My wife flashes it to the chip. Your purchase helps fund future projects. 
+
+**I ask that you please don’t harm your employer with it. It was intended to do good, not bad. Gaining back some freedom (and time) from an employer that won’t let you set your screensaver settings is _good_. Getting paid for doing nothing in place of doing the work you are contracted and paid to do is _bad_. It is up to you to decide how to use it. If you have a lousy or unfulfilling job, I encourage you to do all you can to improve your skills and find a new niche in life where you can use your special gifts and talents to make money _and_ make the world a better place.**
+
+> It should be the end goal of any professional to reach such a high level of skill at what you do that you are no longer limited by your abilities; but rather, you are limited only by your imagination.  
+[\~Gabriel Staples, 25 Feb. 2014][goal-of-lifetime]
+>
+> Reach your true potential.  
+[\~Gabriel Staples, 20 July 2020][goal-of-lifetime]
+
+Again, I sincerely thank you for your purchase. It makes me thrilled and happy that you have chosen to buy this product.
+
+
+<a id="email"></a>
+# Email
+
+Contact me at the email below if you have any problems or if the product malfunctions. 
+
+<p align="left" width="100%">
+    <img width="65%" src="photos/e.m.a.i.l.jpg"> 
+</p>
 
 
 <a id="status"></a>
@@ -185,3 +218,4 @@ _We are a participant in the Amazon Services LLC Associates Program, an affiliat
 <!-- Note: I learned how to do this by looking at the bottom of the Markdown Viewer readme as an example here: https://github.com/simov/markdown-viewer/blob/master/README.md -->
 
   [faq]: https://github.com/ElectricRCAircraftGuy/eRCaGuy_ComputaPranksta_Support/issues?q=is%3Aissue+label%3AFAQ+
+  [goal-of-lifetime]: https://www.electricrcaircraftguy.com/2014/02/the-goal-of-a-lifetime.html
