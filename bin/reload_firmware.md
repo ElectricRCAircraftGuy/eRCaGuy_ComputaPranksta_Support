@@ -3,7 +3,7 @@
 
 ## On Windows:
 
-1. Download the repository: https://github.com/ElectricRCAircraftGuy/eRCaGuy_ComputaPranksta_Support --> click "Code" near the top, then "Download ZIP". Extract it.
+1. Download the repository: https://github.com/ElectricRCAircraftGuy/eRCaGuy_ComputaPranksta_Support/tree/reload_fw --> click "Code" near the top, then "Download ZIP". Extract it.
 1. Install zadig-2.5.exe from the [bin/zadig](zadig) directory.
 1. Run Zadig. The interface, as shown below, appears.
     1. ![](zadig/zadig_screenshot.gif)
