@@ -68,7 +68,7 @@ _NB: these instructions are flaky and may not work on Windows right now, but thi
 
 _Tested and works in Ubuntu 20.04. This should also work in Ubuntu 16.04 and 18.04._
 
-1. Open a terminal. Ex: via <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>T</kbd>. Now, copy and paste the following commands, one line at a time, into the terminal, pressing <kbd>Enter</kbd> after each command in order to run it.
+1. Open a terminal. Ex: via <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>T</kbd>. Now, copy and paste the following commands, one line at a time, into the terminal, pressing <kbd>Enter</kbd> after each command in order to run it. Note that pasting into the terminal can either be done via the mouse right-click menu, _or_ using <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>V</kbd>.
 1. Install dependencies
     ```bash
     sudo apt update 
