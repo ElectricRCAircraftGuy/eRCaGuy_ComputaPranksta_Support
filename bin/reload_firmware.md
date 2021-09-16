@@ -1,7 +1,18 @@
 
 # How to reload firmware onto the device, in case it quits working
 
+<!-- MarkdownTOC -->
+
+1. [On Windows:](#on-windows)
+    1. [References/Sources:](#referencessources)
+1. [On Linux Ubuntu:](#on-linux-ubuntu)
+
+<!-- /MarkdownTOC -->
+
+
+<a id="on-windows"></a>
 ## On Windows:
+_NB: these instructions are flaky and may not work on Windows right now, but this is the concept._
 
 1. Download the repository: https://github.com/ElectricRCAircraftGuy/eRCaGuy_ComputaPranksta_Support/tree/reload_fw --> click "Code" near the top, then "Download ZIP". Extract it.
 1. Install zadig-2.5.exe from the [bin/zadig](zadig) directory.
@@ -45,9 +56,73 @@
 
 
 
+<a id="referencessources"></a>
 ### References/Sources:
-1. https://github.com/micronucleus/micronucleus/tree/master/windows_driver_installer
+1. Zadig install info: https://github.com/micronucleus/micronucleus/tree/master/windows_driver_installer
 1. Windows micronucleus.exe: https://github.com/micronucleus/micronucleus/tree/master/commandline/builds/x86_64-mingw32 
+1. better fork of the micronucleus firmware: https://github.com/ArminJo/micronucleus-firmware
+
+
+<a id="on-linux-ubuntu"></a>
+## On Linux Ubuntu:
+
+_Tested and works in Ubuntu 20.04. This should also work in Ubuntu 16.04 and 18.04._
+
+1. Open a terminal. Ex: via <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>T</kbd>.
+1. Install dependencies
+    ```bash
+    sudo apt update 
+    sudo apt install build-essential libusb-dev git  
+    ```
+1. Build & install micronucleus
+    ```bash
+    cd /tmp
+    git clone https://github.com/micronucleus/micronucleus.git
+    cd micronucleus/commandline
+    make
+    sudo make install 
+    ```
+1. Copy the micronucleus udev rules over so that you can run `micronucleus` withOUT sudo; and reload the rules.
+    ```bash
+    cd /tmp/micronucleus/commandline
+    sudo cp -i 49-micronucleus.rules /etc/udev/rules.d/
+    sudo udevadm control --reload-rules
+    sudo udevadm trigger
+    ```
+1. Upload the first set of firmware.
+    ```bash
+    micronucleus --run <(curl https://raw.githubusercontent.com/ElectricRCAircraftGuy/eRCaGuy_ComputaPranksta_Support/reload_fw/bin/x86_64-mingw32/load_data_into_EEPROM_7_WORKS.ino.hex)
+    ````
+    1. It will ask you to plug in the device. Plug it in at this time. You should see something like this. It will take just a few seconds:
+        >     > Please plug in the device ... 
+        >     > Press CTRL+C to terminate the program.
+        >       % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+        >                                      Dload  Upload   Total   Spent    Left  Speed
+        >     100  6944  100  6944    0     0  17989      0 --:--:-- --:--:-- --:--:-- 17943
+        >     > Device is found!
+        >     connecting: 33% complete
+        >     > Device has firmware version 1.6
+        >     > Available space for user applications: 6012 bytes
+        >     > Suggested sleep time between sending pages: 8ms
+        >     > Whole page count: 94  page size: 64
+        >     > Erase function sleep duration: 752ms
+        >     parsing: 50% complete
+        >     > Erasing the memory ...
+        >     erasing: 66% complete
+        >     > Starting to upload ...
+        >     writing: 83% complete
+        >     > Starting the user app ...
+        >     running: 100% complete
+        >     >> Micronucleus done. Thank you!
+
+    1. Several seconds after micronucleus finishes above and says `Micronucleus done. Thank you!`, the LED will begin blinking rapidly on the Pranksta device, indicating it is ready for the next step. If it is not blinking rapidly, do _not_ proceed, as something has not worked up to this point. 
+    1. Unplug it.
+1. Upload the second set of firmware:
+    ```bash
+    micronucleus --run <(curl https://raw.githubusercontent.com/ElectricRCAircraftGuy/eRCaGuy_ComputaPranksta_Support/reload_fw/bin/x86_64-mingw32/computaPranksta93_RELEASE_2.ino.hex)
+    ``` 
+    1. It will ask you to plug in the device. Plug it in at this time. You should see something like what you saw above. It will take just a few seconds. The firmware is now flashed. 
+    1. About 10 to 30 seconds later it should start to drag the mouse cursor slowly to the lower-left of the screen, while typing random characters. Press <kbd>Caps Lock</kbd> repeatedly to cycle through the various mouse movements. If this works, the device firmware is restored.
 
 
 <!--
