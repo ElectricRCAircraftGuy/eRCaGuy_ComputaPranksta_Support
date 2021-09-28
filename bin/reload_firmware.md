@@ -6,6 +6,7 @@
 1. [On Windows:](#on-windows)
     1. [References/Sources:](#referencessources)
 1. [On Linux Ubuntu:](#on-linux-ubuntu)
+    1. [Notes to self](#notes-to-self)
 
 <!-- /MarkdownTOC -->
 
@@ -123,6 +124,30 @@ _Tested and works in Ubuntu 20.04. This should also work in Ubuntu 16.04 and 18.
     ``` 
     1. It will ask you to plug in the device. Plug it in at this time. You should see something like what you saw above. It will take just a few seconds. The firmware is now flashed. 
     1. About 10 to 30 seconds later it should start to drag the mouse cursor slowly to the lower-left of the screen, while typing random characters. Press <kbd>Caps Lock</kbd> repeatedly to cycle through the various mouse movements. If this works, the device firmware is restored.
+
+<a id="notes-to-self"></a>
+### Notes to self
+
+<sub>See also my personal notes on my PC here: "\~/GS/dev/eRCaGuy_ComputaPranksta/README.md".</sub>
+
+
+We may have to upgrade the bootloader to v2.5. IF that's the case, try the following. Official bootloader releases are located here: https://github.com/micronucleus/micronucleus/tree/master/firmware/upgrades. We will use "upgrade-t85_default.hex":
+
+```bash
+micronucleus --run <(curl https://raw.githubusercontent.com/micronucleus/micronucleus/master/firmware/upgrades/upgrade-t85_default.hex)
+```
+
+Wait about 30 seconds \~ 1 minute: do NOT unplug it during this time or you may "brick" the device and need to reprogram it with a special programmer (high voltage AVR programmer I think) instead of being able to upgrade it through its own bootloader. (To customers: this basically means you must buy a new one).
+
+Now, the next time you flash a new program to it through the bootloader, it will say `Device has firmware version 2.5`. Ex:
+
+>     > Please plug in the device ... 
+>     > Press CTRL+C to terminate the program.
+>     > Device is found!
+>     connecting: 33% complete
+>     > Device has firmware version 2.5
+
+END.
 
 
 <!--
