@@ -1,3 +1,5 @@
+[>> Sponsor Me on GitHub <<](https://github.com/sponsors/ElectricRCAircraftGuy)
+
 # eRCaGuy_ComputaPranksta_Support
 Public support for my "Computa Pranksta" mouse jiggler device I [sell on Amazon](https://amzn.to/2ReBSuN) and elsewhere.
 
